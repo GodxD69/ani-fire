@@ -10,8 +10,8 @@ const Navbar = () => {
         <Image
         src="/assets/godlogo.png"
         alt="logo"
-        width={140}
-        height={16}
+        width={200}
+        height={25}
         />
 
         <div className="lg:flex hidden gap-x-1.5">
