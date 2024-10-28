@@ -19,8 +19,8 @@ const logoFont = localFont({
 })
 
 export const metadata: Metadata = {
-  title: 'AnimeFire | Watch anime without any ads!',
-  description: 'Anifire is a anime streaming free website where you can watch any anime for free with-out any ads and popups.',
+  title: 'GodAnime | Watch anime without any ads!',
+  description: 'GodAnime is a anime streaming free website where you can watch any anime for free with-out any ads and popups.',
 }
 
 export default function RootLayout({
