@@ -8,7 +8,7 @@ const Navbar = () => {
     <header className="max-w-[1420px] mx-auto w-full h-16 flex items-center sticky top-0 z-20 bg-slate-50">
       <nav className="flex justify-between w-full px-4 items-center">
         <Image
-        src="/assets/logo.svg"
+        src="/assets/godlogo.png"
         alt="logo"
         width={140}
         height={16}
