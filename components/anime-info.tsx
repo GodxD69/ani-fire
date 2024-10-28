@@ -118,9 +118,8 @@ const AnimeInfo = ({
 
           <div className="my-3">
             <p className="text-muted-foreground text-sm">
-              AniFire is a website to watch the animes for free and event
-              ads-free. My main motive was to make a full functionable website
-              to showcase in my portfolio i have no intentions to make any type
+              GodAnime is a website to watch the animes for free and event
+              ads-free.We have no intentions to make any type
               of revenew from this.
             </p>
           </div>
