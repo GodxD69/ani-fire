@@ -32,13 +32,10 @@ const MainNavbar = () => {
             <ToggleMenuBtn />
 
             <Link href="/home">
-              <img
-                src="/assets/nav.gif"
-                alt="logo"
-                loading="eager"
-                height={56}
-                width={56}
-              />
+              <p className="text-3xl font-logo text-secondary-foreground dark:text-white leading-none md-text-xl">
+             God
+            <span className="text-[#db1400]">Anime</span>
+            </p>
             </Link>
           </div>
 
