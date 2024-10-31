@@ -60,18 +60,7 @@ const MainNavbar = () => {
 
             <ToggleSearch />
 
-            <SignedInButton>
-              <UserButton />
-            </SignedInButton>
-            <SignedOutButton>
-              <Link
-                href={`/auth/login?callbackUrl=${callbackUrl}`}
-                className={cn(buttonVariants())}
-              >
-                Login
-              </Link>
-            </SignedOutButton>
-          </div>
+   </div>
         </nav>
       </header>
 
